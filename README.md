@@ -1,6 +1,6 @@
 # MAPR Overview
 
-This repository contains a breakdown of all results and important literature that was gathered during the my master of applied research in engineering sciences. Parts of this repository won't be finished and functional.
+This repository contains a breakdown of all results and important literature that was gathered during the my master of applied research in engineering sciences. Parts of this repository will be not be finished and functional.
 
 Modern deep neural networks (DNNs) have basically become the go-to solution for any application
 depending on big data analysis, because of their highly effective manner of solving complex
@@ -18,7 +18,7 @@ Most of the recent advancements in the field of XAI regarding the creation of vi
 
 The research approach and implementation can be broken down into 4 major parts:
 
- - **Neural Networks:** This section will include data sets and network architectures used to achieve the task of an autonomous driving vehicle. The focus will be on efficiently operating segmentation networks.
- - **XAI:** This section will present some foundational and general knowledge about the research field of interpretable/explainable artificial intelligence
- - **Adversarial Attacks:** Here some attack methodologies will be presented. Also focusing on image segmentation and efficiency
- - **ROS Racecar:** This section includes necessary knowledge to integrate the network into the Hardware used for the real-world application.
+ - **[Neural Networks](https://github.com/VascoDaGama94/MAPR/tree/main/neuralnetworks):** This section will include data sets and network architectures used to achieve the task of an autonomous driving vehicle. The focus will be on efficiently operating segmentation networks.
+ - **[XAI](https://github.com/VascoDaGama94/MAPR/tree/main/xai):** This section will present some foundational and general knowledge about the research field of interpretable/explainable artificial intelligence
+ - **[Adversarial Attacks](https://github.com/VascoDaGama94/MAPR/tree/main/adversarialattacks):** Here some attack methodologies will be presented. Also focusing on image segmentation and efficiency
+ - **[ROS Racecar](https://github.com/VascoDaGama94/MAPR/tree/main/ros_racecar):** This section includes necessary knowledge to integrate the network into the Hardware used for the real-world application.
