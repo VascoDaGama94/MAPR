@@ -1,6 +1,6 @@
 # MAPR Overview
 
-This repository contains a breakdown of all results and important literature that was gathered during the my master of applied research in engineering sciences. Parts of this repository will be not be finished and functional.
+This repository contains a breakdown of all results and important literature that was gathered during the my master of applied research in engineering sciences. Parts of this repository won't be finished and functional.
 
 Modern deep neural networks (DNNs) have basically become the go-to solution for any application
 depending on big data analysis, because of their highly effective manner of solving complex
