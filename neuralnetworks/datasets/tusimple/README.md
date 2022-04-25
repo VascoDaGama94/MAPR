@@ -34,3 +34,4 @@ It says that there are four lanes in the image, and the first lane starts at (63
  - https://paperswithcode.com/dataset/tusimple
  - https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md
  - https://medium.com/analytics-vidhya/detecting-lanes-using-deep-neural-networks-eebf2d9e3603
+ - https://www.kaggle.com/datasets/manideep1108/tusimple
