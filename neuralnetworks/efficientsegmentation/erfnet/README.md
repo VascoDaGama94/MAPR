@@ -9,4 +9,10 @@ By combining the ideas from several high performing deep neural networks, the [E
 
 ## Results Flop Counter
 
+
 ## Resources
+
+ - http://www.robesafe.es/personal/eduardo.romera/pdfs/Romera17tits.pdf
+ - https://github.com/Eromera/erfnet_pytorch
+ - https://github.com/Eromera/erfnet
+
