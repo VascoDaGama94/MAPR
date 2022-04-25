@@ -6,3 +6,6 @@ In the presented directories the different network architectures and a preview o
 
 ## Resources
 
+ - https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
+ - https://github.com/meetps/pytorch-semseg
+
